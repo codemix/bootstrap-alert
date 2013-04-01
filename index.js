@@ -1,4 +1,4 @@
-function(){
+(function(){
   var jQuery = require('jquery');
   /* ==========================================================
    * bootstrap-alert.js v2.3.1
@@ -99,4 +99,4 @@ function(){
     $(document).on('click.alert.data-api', dismiss, Alert.prototype.close)
   
   }(jQuery);
-}()
+})()
