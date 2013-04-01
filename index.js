@@ -99,4 +99,4 @@ function(){
     $(document).on('click.alert.data-api', dismiss, Alert.prototype.close)
   
   }(jQuery);
-}
+}()
