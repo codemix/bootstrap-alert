@@ -2,7 +2,7 @@
   "name": "bootstrap-alert",
   "repo": "codemix/bootstrap-alert",
   "description": "The alert plugin from twitter bootstrap",
-  "version": "2.3.1",
+  "version": "3.0.0",
   "dependencies": {
     "components/jquery": "*"
   },
