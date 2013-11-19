@@ -1,8 +1,7 @@
 (function(){
-  var jQuery = require('jquery');
   /* ========================================================================
-   * Bootstrap: alert.js v3.0.0
-   * http://twbs.github.com/bootstrap/javascript.html#alerts
+   * Bootstrap: alert.js v3.0.2
+   * http://getbootstrap.com/javascript/#alerts
    * ========================================================================
    * Copyright 2013 Twitter, Inc.
    *
