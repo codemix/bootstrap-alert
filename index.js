@@ -1,4 +1,4 @@
-(function(){
+;(function(){
   /* ========================================================================
    * Bootstrap: alert.js v3.0.2
    * http://getbootstrap.com/javascript/#alerts
@@ -98,4 +98,4 @@
   
   }(jQuery);
   
-})()
+})();
